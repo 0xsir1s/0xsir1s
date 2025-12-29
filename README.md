@@ -9,8 +9,8 @@ I'm passionate about **infrastructure security**, **penetration testing**, and *
 **[ADZA](#)**  
 Automated Active Directory deployment and hardening solution using Bash and Ansible, implementing ANSSI security recommendations.
 
-**[Python Port Scanner](#)** 
-Building a custom port scanner in Python to deepen my understanding of network protocols and improve my scripting skills.
+**[pYscan](#)** 
+CLI port scanner built with Python and Scapy, supporting multiple scan techniques (TCP Connect, SYN, UDP, NULL, FIN, Xmas, ACK, Window).
 
 ## Certifications & Training
 
