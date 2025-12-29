@@ -6,7 +6,7 @@ I'm passionate about **infrastructure security** and **penetration testing**. I 
 
 ## Featured Projects
 
-**[ADZA](#)**  
+**[ADZA](https://github.com/0xsir1s/ADZA)**  
 Automated Active Directory deployment and hardening solution using Bash and Ansible, implementing ANSSI security recommendations.
 
 **[pYscan](https://github.com/0xsir1s/pYscan)**  
