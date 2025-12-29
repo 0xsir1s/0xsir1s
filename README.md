@@ -2,7 +2,7 @@
 
 **Cybersecurity Student** in France — Currently seeking a work-study position (alternance) starting September 2026.
 
-I'm passionate about **infrastructure security**, **penetration testing**, and **automation**. I strongly believe in self-directed learning and spend most of my free time experimenting in my personal homelab and practicing on platforms like HackTheBox, TryHackMe, and RootMe.
+I'm passionate about **infrastructure security** and **penetration testing**. I strongly believe in self-directed learning and spend most of my free time experimenting in my personal homelab and practicing on platforms like HackTheBox, TryHackMe. 
 
 ## Featured Projects
 
